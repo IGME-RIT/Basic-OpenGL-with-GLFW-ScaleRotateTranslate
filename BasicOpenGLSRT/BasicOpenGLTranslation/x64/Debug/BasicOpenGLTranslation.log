@@ -1,0 +1,41 @@
+﻿  main.cpp
+c:\users\niko\desktop\tutorials\graphicstutorials\intro graphics (readme and screenshot)\basic-opengl-with-glfw-scalerotatetransform-vs2019\basicopenglsrt\basicopengltranslation\main.cpp(201): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Shader.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol glewInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+main.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol __glewBufferData
+main.obj : error LNK2001: unresolved external symbol __glewDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+main.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol __glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+main.obj : error LNK2001: unresolved external symbol __glewDeleteVertexArrays
+main.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
+main.obj : error LNK2001: unresolved external symbol glewExperimental
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+Shader.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+C:\Users\Niko\Desktop\Tutorials\GraphicsTutorials\Intro Graphics (readme and screenshot)\Basic-OpenGL-with-GLFW-ScaleRotateTransform-VS2019\BasicOpenGLSRT\\..\External Libraries\GLEW\lib\Release\Win32\glew32s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Niko\Desktop\Tutorials\GraphicsTutorials\Intro Graphics (readme and screenshot)\Basic-OpenGL-with-GLFW-ScaleRotateTransform-VS2019\BasicOpenGLSRT\\..\External Libraries\GLFW\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Niko\Desktop\Tutorials\GraphicsTutorials\Intro Graphics (readme and screenshot)\Basic-OpenGL-with-GLFW-ScaleRotateTransform-VS2019\BasicOpenGLSRT\x64\Debug\BasicOpenGLTranslation.exe : fatal error LNK1120: 34 unresolved externals
